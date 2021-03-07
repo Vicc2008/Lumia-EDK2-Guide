@@ -12,6 +12,8 @@ Lumia930Pkg: https://github.com/rickliu2000/Lumia930Pkg
 
 Lumia535Pkg: https://github.com/konradybcio/Lumia535Pkg
 
+Lumia530Pkg: https://github.com/Vicc2008/Lumia530Pkg
+
 EDK2: https://github.com/tianocore/edk2 (confirmed working as of HEAD a2c3bf1f2f991614ac97ddcf4b31742e4366c3a5)
 
 Cross-compilation toolchain (or just a toolchain if you're compiling on arm 🤷‍): Literally any GCC >=5, but you will probably want this one: https://releases.linaro.org/components/toolchain/binaries/7.1-2017.08/arm-linux-gnueabihf/gcc-linaro-7.1.1-2017.08-x86_64_arm-linux-gnueabihf.tar.xz
